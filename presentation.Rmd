@@ -1,0 +1,102 @@
+---
+title: "Reproductibilité"
+author: Vittoria Rezzonico
+date: 12 février 2019
+output: 
+   revealjs::revealjs_presentation:
+      transition: none
+      theme: simple
+      center: true
+      slide_level: 1
+      controlsBackArrows: 'hidden'
+      progress: false
+      self_contained: false
+      reveal_plugins: ["notes"]
+      
+---
+
+<style>
+.reveal section img { background:none; border:none; box-shadow:none; }
+.reveal section table {
+  border: none;
+}
+.reveal section tr {
+  border: none;
+}
+
+.reveal section td {
+  border: none;
+  text-align: center;
+}
+</style>
+
+# Reproductibilité
+
+---
+
+![fermat](Diophantus-II-8-Fermat.jpg)
+
+---
+
+<div align="left"><i>
+Au contraire, il est impossible de partager soit un cube en deux cubes, soit un bicarré en deux bicarrés, soit en général une puissance quelconque supérieure au carré en deux puissances de même degré : j'en ai découvert une démonstration véritablement merveilleuse que cette marge est trop étroite pour contenir.
+</i></div>
+
+<br>
+
+<div align="right">
+Le dernier théorème de Fermat<br>
+conjecture: 1367<br>
+Preuve: 1994
+</div>
+
+---
+
+![wakefield](andrew_wakefield.jpg)
+
+---
+
+
+![VW](49060340.cms.jpeg)
+
+
+---
+
+# décisions politiques<br>prises en fonction de la recherche
+
+# résultats scientifiques<br>impactent les comportements<br>de la société
+
+# la mauvaise recherche<br>a des effets globaux<br>et peut discréditer<br>toute la recherche
+
+# Reproductibilité
+
+<br><br>
+
+- Pouvoir dupliquer une expérience ou une étude
+- Repliquer une expérience
+- La reproductibilité est un principe de la méthode scientifique
+
+# La reproductibilité est la base de la culture scientifique moderne
+
+
+<br><br>
+
+- le travail est plus facilement repris
+- et utilisé comme base de départ par d'autres
+- meilleure efficacité sur le long terme, plus d'impact
+
+
+# Le produit ultime de la recherche est<br>l'article scientifique
+
+---
+
+![faux](faux.png)
+
+---
+
+## L'article n'est que une pub par rapport au savoir qui est dans le code et les données.
+
+---
+
+![repro](reproducibility-hpc.png)
+
